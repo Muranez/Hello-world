@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+//this is ychebnaya programma
 main(){
 int a,b,c,d;
 cout << "Enter a:";
