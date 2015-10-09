@@ -9,5 +9,6 @@ cin >> b;
 c=a+b;
 cout << "Summa=" << c << "\n";
 d=a-b;
-cout << "Raznost=" << d;
+cout << "Raznost=" << d << "\n";
+cout << "Proizved=" << a*b << "\n";
 }
