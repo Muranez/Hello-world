@@ -1,5 +1,5 @@
 #include "sdt.h"
-//this is ychebnaya programma
+
 main(){
 int a,b,c,d;
 cout << "Enter a:";
@@ -13,4 +13,5 @@ cout << "Raznost=" << d << "\n";
 cout << "Proizved=" << a*b << "\n";
 cout << "Raznost=" << d <<"\n";
 cout << "Delenie=" << a/b <<"\n";
+cout << "Ostatok=" << a%b <<"\n";
 }
